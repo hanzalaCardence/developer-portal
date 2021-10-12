@@ -18,7 +18,6 @@ module.exports = {
         items: [
           "get-started/blockfrost",
           "get-started/cardanocli-js",
-          "get-started/cardano-wallet-js",
           "get-started/dandelion-apis",
           "get-started/ogmios",
           "get-started/cardanosharp-wallet",

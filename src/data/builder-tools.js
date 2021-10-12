@@ -115,13 +115,13 @@ const Showcases = [
     description:
       "Kubernetes-based project to easily deploy Cardano APIs and a free, hosted community service to access all of them instantly.",
     preview: require("./builder-tools/dandelion-apis.png"),
-    website: "https://gimbalabs.com/dandelion",
+    website: "https://gimbalabs.com/dandelionapis",
     getstarted: "/docs/get-started/dandelion-apis",
     tags: ["getstarted", "api"],
   },
   {
     title: "Ogmios",
-    description: "Ogmios is a lightweight bridge interface (WebSocket + JSON/RPC) for cardano-node.",
+    description: "Ogmios offers a JSON-WSP interface through WebSockets.",
     preview: require("./builder-tools/ogmios.png"),
     website: "https://ogmios.dev",
     getstarted: "/docs/get-started/ogmios",
@@ -152,14 +152,6 @@ const Showcases = [
     website: "https://github.com/adosia/Heidrun",
     getstarted: null,
     tags: ["api"],
-  },
-  {
-    title: "cardano-wallet-js",
-    description: "A javascript/typescript SDK for Cardano Wallet with a extra functionalities. You can use it as a client for the official cardano-wallet and also to create Native Tokens and NFTs.",
-    preview: require("./builder-tools/cardano-wallet-js.png"),
-    website: "https://github.com/tango-crypto/cardano-wallet-js",
-    getstarted: "/docs/get-started/cardano-wallet-js",
-    tags: ["getstarted", "library"]
   },
   {
     title: "CardanoSharp Wallet",

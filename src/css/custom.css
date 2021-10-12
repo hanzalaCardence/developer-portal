@@ -90,9 +90,9 @@ html[data-theme='dark'] .header-github-link:before {
 }
 
 div#faucetcontainer {
-  width: 650px;
+  width: 500px;
   /* defines the visible width of the part */
-  height: 650px;
+  height: 500px;
   /* defines the visible height of the part */
   overflow: hidden;
   overflow-x: hidden;
